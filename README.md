@@ -1,2 +1,2 @@
 # AI-Final-Project
-Vending Machines final project for Intro to AI
+Project Summary:https://docs.google.com/document/d/1k9YU8YviV3DkUkCMprHOTNMyrVyymWZokpnoxggoeBM/edit?usp=sharing
